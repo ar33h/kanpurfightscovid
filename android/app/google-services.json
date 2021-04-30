@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979845546540",
+    "project_id": "kanpurfightscovid",
+    "storage_bucket": "kanpurfightscovid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979845546540:android:a518a14f236ec5b9b3c789",
+        "android_client_info": {
+          "package_name": "com.example.kanpurfightscovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979845546540-fldh2e9tli5jikl82g5rcnm62l989ok7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-TJ7S94NBmx1XsNDYX_Wuc99Hcdj-1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979845546540-fldh2e9tli5jikl82g5rcnm62l989ok7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
