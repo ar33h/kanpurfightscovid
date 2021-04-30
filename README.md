@@ -13,4 +13,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Firebase
 
-This repo is using Firebase. App uses Cloud Firestore and Cloud Storage to handle image uploads and to store them.
+This repo is using Firebase. App uses Cloud Firestore and Cloud Storage to handle Data.
